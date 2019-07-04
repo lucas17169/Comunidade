@@ -9467,8 +9467,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":279,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               11.1,
+               10.8,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9485,8 +9501,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":280,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               23.2,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":10,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9503,8 +9535,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":281,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               9.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9521,8 +9569,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":282,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               7,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":3.5,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" \u00e1rea cercada"
          }
       },
       {
@@ -9539,8 +9603,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":283,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium cattleianum (ara\u00e7\u00e1) ",
+            "number":457,
+            "DAP":[
+               5.7,
+               5.1,
+               4.5,
+               0,
+               0
+            ],
+            "hT":2.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9557,8 +9637,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":284,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               6.4,
+               8,
+               0,
+               0,
+               0
+            ],
+            "hT":3.5,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9575,8 +9671,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":285,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               8,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9593,8 +9705,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":286,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               8,
+               6.4,
+               7,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9611,8 +9739,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":287,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               6.4,
+               6,
+               7,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9629,8 +9773,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":288,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               7.3,
+               9.9,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9647,8 +9807,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":289,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               12.7,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9665,8 +9841,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":290,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               15.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":2,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9683,8 +9875,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":291,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9701,8 +9909,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":292,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               13.7,
+               12.7,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9719,8 +9943,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":293,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               10.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9737,8 +9977,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":294,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               14.3,
+               9.5,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9755,8 +10011,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":295,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15.3,
+               11.1,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9773,8 +10045,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":296,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               9.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9791,8 +10079,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":297,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pyrus communis (pereira) ",
+            "number":457,
+            "DAP":[
+               6,
+               5.7,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":1.5,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9809,8 +10113,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":298,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Malus domestica (macieira) ",
+            "number":457,
+            "DAP":[
+               6.7,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9827,8 +10147,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":299,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               6.4,
+               8,
+               0,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9845,8 +10181,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":300,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               6.4,
+               5.4,
+               8.9,
+               9.5,
+               9.5
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9863,8 +10215,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":301,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               9.2,
+               6,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9881,8 +10249,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":302,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               14,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9899,8 +10283,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":303,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9917,8 +10317,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":304,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pyrus communis (pereira) ",
+            "number":457,
+            "DAP":[
+               10.2,
+               9.5,
+               8.9,
+               8,
+               8
+            ],
+            "hT":7,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9935,8 +10351,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":305,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pyrus communis (pereira) ",
+            "number":457,
+            "DAP":[
+               16.9,
+               18.1,
+               0,
+               0,
+               0
+            ],
+            "hT":7.5,
+            "DPC":5,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9953,8 +10385,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":306,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium cattleianum (ara\u00e7\u00e1) ",
+            "number":457,
+            "DAP":[
+               7.6,
+               6.4,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9971,8 +10419,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":307,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               15,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -9989,8 +10453,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":308,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Persea americana (abacateiro) ",
+            "number":457,
+            "DAP":[
+               14.3,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":6.5,
+            "DPC":1,
+            "EF":"bo",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10007,8 +10487,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":309,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               14.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":6.5,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10025,8 +10521,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":310,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               11.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10043,8 +10555,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":311,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               9.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10061,8 +10589,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":312,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Alchornea triplinervia (tanheiro) ",
+            "number":457,
+            "DAP":[
+               29.6,
+               30.2,
+               38.2,
+               0,
+               0
+            ],
+            "hT":13,
+            "DPC":10,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10079,8 +10623,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":313,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Syagrus romanzoffiana (jeriv\u00e1) ",
+            "number":457,
+            "DAP":[
+               39.8,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":12,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10097,8 +10657,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":314,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               54.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10115,8 +10691,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":315,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               50.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10133,8 +10725,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":316,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               50.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10151,8 +10759,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":317,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               33.4,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10169,8 +10793,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":318,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               35,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10187,8 +10827,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":319,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               21.6,
+               58.9,
+               0,
+               0,
+               0
+            ],
+            "hT":18,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10205,8 +10861,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":320,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               33.4,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":18,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10223,8 +10895,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":321,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               34.4,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10241,8 +10929,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":322,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               44.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10259,8 +10963,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":323,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               41.4,
+               9.5,
+               13.4,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10277,8 +10997,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":324,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               30.2,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10295,8 +11031,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":325,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               22.9,
+               45.5,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10313,8 +11065,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":326,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               60.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10331,8 +11099,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":327,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               33.4,
+               13.4,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10349,8 +11133,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":328,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               29,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":15,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10367,8 +11167,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":329,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pinus elliottii (pinus) ",
+            "number":457,
+            "DAP":[
+               52.2,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":20,
+            "DPC":7,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -10385,8 +11201,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":330,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Annona sylvatica (araticum) ",
+            "number":457,
+            "DAP":[
+               6.4,
+               7,
+               6,
+               10.5,
+               10.5
+            ],
+            "hT":5,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10403,8 +11235,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":331,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               12.4,
+               10.5,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10421,8 +11269,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":332,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               14,
+               11.1,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10439,8 +11303,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":333,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               8.3,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10457,8 +11337,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":334,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Syagrus romanzoffiana (jeriv\u00e1) ",
+            "number":457,
+            "DAP":[
+               32.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":8,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10475,8 +11371,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":335,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               13.4,
+               11.1,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":5,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10493,8 +11405,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":336,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               12.7,
+               15.9,
+               13.4,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10511,8 +11439,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":337,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium cattleianum (ara\u00e7\u00e1) ",
+            "number":457,
+            "DAP":[
+               8.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10529,8 +11473,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":338,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               11.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10547,8 +11507,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":339,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               8.6,
+               7,
+               6.4,
+               7.3,
+               7.3
+            ],
+            "hT":4,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10565,8 +11541,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":340,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pyrus communis (pereira) ",
+            "number":457,
+            "DAP":[
+               22.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":8,
+            "DPC":5,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10583,8 +11575,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":341,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium cattleianum (ara\u00e7\u00e1) ",
+            "number":457,
+            "DAP":[
+               9.5,
+               9.9,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":2.5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10601,8 +11609,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":342,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium cattleianum (ara\u00e7\u00e1) ",
+            "number":457,
+            "DAP":[
+               8,
+               8.6,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10619,8 +11643,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":343,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Myrsine coriaceae (capororoquinha) ",
+            "number":457,
+            "DAP":[
+               26.7,
+               16.9,
+               0,
+               0,
+               0
+            ],
+            "hT":9,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10637,8 +11677,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":344,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pyrus communis (pereira) ",
+            "number":457,
+            "DAP":[
+               13.1,
+               12.7,
+               9.5,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10655,8 +11711,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":345,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               14,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10673,8 +11745,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":346,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               11.5,
+               12.1,
+               0,
+               0,
+               0
+            ],
+            "hT":3.5,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10691,8 +11779,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":347,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Pyrus communis (pereira) ",
+            "number":457,
+            "DAP":[
+               9.5,
+               9.5,
+               10.2,
+               11.1,
+               11.1
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10709,8 +11813,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":348,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Camelia japonica (cam\u00e9lia) ",
+            "number":457,
+            "DAP":[
+               6.4,
+               6.4,
+               6.7,
+               5.7,
+               5.7
+            ],
+            "hT":5.5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10727,8 +11847,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":349,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               19.4,
+               12.1,
+               0,
+               0,
+               0
+            ],
+            "hT":6.5,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10745,8 +11881,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":350,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               18.5,
+               10.5,
+               0,
+               0,
+               0
+            ],
+            "hT":6.5,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10763,8 +11915,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":351,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               25.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10781,8 +11949,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":352,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15.3,
+               7.6,
+               10.2,
+               0,
+               0
+            ],
+            "hT":6.5,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10799,8 +11983,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":353,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               26.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":8,
+            "DPC":6,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -10817,8 +12017,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":354,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               11.1,
+               12.7,
+               10.2,
+               0,
+               0
+            ],
+            "hT":6.5,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10835,8 +12051,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":355,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               11.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":6,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10853,8 +12085,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":356,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               22.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":8,
+            "DPC":5,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -10871,8 +12119,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":357,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium cattleianum (ara\u00e7\u00e1) ",
+            "number":457,
+            "DAP":[
+               11.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10889,8 +12153,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":358,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               23.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":9,
+            "DPC":5,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -10907,8 +12187,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":359,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               18.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10925,8 +12221,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":360,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               25.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":10,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10943,8 +12255,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":361,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15,
+               13.1,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10961,8 +12289,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":362,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Brachychiton populneum (perna-de-mo\u00e7a) ",
+            "number":457,
+            "DAP":[
+               19.7,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7.5,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10979,8 +12323,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":363,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               20.4,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -10997,8 +12357,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":364,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15.9,
+               11.1,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11015,8 +12391,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":365,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               19.7,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11033,8 +12425,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":366,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               21.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11051,8 +12459,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":367,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               5.7,
+               6,
+               5.1,
+               4.5,
+               4.5
+            ],
+            "hT":4,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11069,8 +12493,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":368,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               5.7,
+               6,
+               5.1,
+               4.5,
+               4.5
+            ],
+            "hT":4,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11087,8 +12527,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":369,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               3.2,
+               2.5,
+               2.2,
+               2.2,
+               2.2
+            ],
+            "hT":2,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11105,8 +12561,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":370,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               5.4,
+               4.8,
+               3.8,
+               5.7,
+               5.7
+            ],
+            "hT":5,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11123,8 +12595,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":371,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Melia azedarach (cinamomo) ",
+            "number":457,
+            "DAP":[
+               18.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":9,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11141,8 +12629,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":372,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Sapium glandulatum (pau-leiteiro) ",
+            "number":457,
+            "DAP":[
+               24.8,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11159,8 +12663,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":373,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               3.2,
+               4.8,
+               4.5,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11177,8 +12697,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":374,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               5.1,
+               4.8,
+               5.7,
+               6.4,
+               6.4
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11195,8 +12731,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":375,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               3.2,
+               2.9,
+               2.2,
+               0,
+               0
+            ],
+            "hT":2,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11213,8 +12765,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":376,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               5.1,
+               7.3,
+               6.4,
+               5.7,
+               5.7
+            ],
+            "hT":5,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11231,8 +12799,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":377,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               3.2,
+               2.5,
+               1.9,
+               1.6,
+               1.6
+            ],
+            "hT":4,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11249,8 +12833,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":378,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               1.6,
+               1.9,
+               1.3,
+               1.6,
+               1.6
+            ],
+            "hT":2,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11267,8 +12867,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":379,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               2.5,
+               3.2,
+               4.5,
+               0,
+               0
+            ],
+            "hT":2,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11285,8 +12901,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":380,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Alchornea triplinervia (tanheiro) ",
+            "number":457,
+            "DAP":[
+               60.5,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":14,
+            "DPC":12,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -11303,8 +12935,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":381,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               25.5,
+               27.7,
+               0,
+               0,
+               0
+            ],
+            "hT":14,
+            "DPC":8,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -11321,8 +12969,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":382,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               28,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"supress\u00e3o",
+            "compensacao":"1",
+            "obs":" "
          }
       },
       {
@@ -11339,8 +13003,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":383,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               20.4,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11357,8 +13037,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":384,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               1.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":2.5,
+            "DPC":1,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11375,8 +13071,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":385,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Butia odorata (butiazeiro) ",
+            "number":457,
+            "DAP":[
+               63.7,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4.5,
+            "EF":"bo",
+            "GE":"sec. tardia",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11393,8 +13105,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":386,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               9.5,
+               11.5,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11411,8 +13139,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":387,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               9.5,
+               10.2,
+               8.9,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11429,8 +13173,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":388,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Plinia peruviana (jaboticabeira) ",
+            "number":457,
+            "DAP":[
+               16.6,
+               17.2,
+               15.9,
+               0,
+               0
+            ],
+            "hT":7.5,
+            "DPC":3,
+            "EF":"ru",
+            "GE":"sec. tardia",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11447,8 +13207,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":389,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.4,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11465,8 +13241,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":390,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               4.5,
+               4.1,
+               3.2,
+               2.9,
+               2.9
+            ],
+            "hT":2.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11483,8 +13275,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":391,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.7,
+               5.1,
+               3.2,
+               4.8,
+               4.8
+            ],
+            "hT":3.5,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11501,8 +13309,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":392,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               3.2,
+               2.5,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":1.5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11519,8 +13343,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":393,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Jacaranda mimosifolia (jacarand\u00e1-mimoso) Ficus cestrifolia (figueira-da-folha-mi\u00fada) ",
+            "number":457,
+            "DAP":[
+               63.7,
+               57.3,
+               0,
+               0,
+               0
+            ],
+            "hT":16,
+            "DPC":16,
+            "EF":"bo",
+            "GE":" ",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11537,8 +13377,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":394,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":2.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11555,8 +13411,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":395,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               21.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":9,
+            "DPC":4,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" inj\u00farias no tronco"
          }
       },
       {
@@ -11573,8 +13445,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":396,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Hovenia dulcis (uva-do-jap\u00e3o) ",
+            "number":457,
+            "DAP":[
+               31.2,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":10,
+            "DPC":6,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" inj\u00farias no tronco"
          }
       },
       {
@@ -11591,8 +13479,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":397,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.7,
+               3.2,
+               1.6,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11609,8 +13513,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":398,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.1,
+               3.8,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11627,8 +13547,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":399,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               28.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":5,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" inj\u00farias no tronco"
          }
       },
       {
@@ -11645,8 +13581,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":400,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               2.2,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":2,
+            "DPC":1,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11663,8 +13615,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":401,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Handroanthus chrysotrichus (ip\u00ea-amarelo) ",
+            "number":457,
+            "DAP":[
+               15.3,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7.5,
+            "DPC":4,
+            "EF":"re",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11681,8 +13649,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":402,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               11.1,
+               9.5,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11699,8 +13683,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":403,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               1.6,
+               1.3,
+               3.2,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":1.5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11717,8 +13717,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":404,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               8,
+               6.4,
+               8.9,
+               4.8,
+               4.8
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11735,8 +13751,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":405,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.1,
+               4.5,
+               3.2,
+               2.5,
+               2.5
+            ],
+            "hT":2,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11753,8 +13785,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":406,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               16.9,
+               15.6,
+               22.3,
+               15,
+               15
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11771,8 +13819,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":407,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               19.7,
+               20.7,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11789,8 +13853,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":408,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Handroanthus chrysotrichus (ip\u00ea-amarelo) ",
+            "number":457,
+            "DAP":[
+               15.3,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"re",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11807,8 +13887,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":409,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               12.7,
+               19.1,
+               13.4,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":7,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11825,8 +13921,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":410,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               2.2,
+               1.9,
+               1.6,
+               1.3,
+               1.3
+            ],
+            "hT":2,
+            "DPC":1.5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11843,8 +13955,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":411,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               16.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":6,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -11861,8 +13989,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":412,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11879,8 +14023,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":413,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15.9,
+               9.9,
+               0,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11897,8 +14057,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":414,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               2.5,
+               2.2,
+               1.9,
+               0,
+               0
+            ],
+            "hT":2.5,
+            "DPC":2.5,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11915,8 +14091,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":415,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               8.3,
+               4.5,
+               3.8,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11933,8 +14125,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":416,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               1.6,
+               1.3,
+               3.2,
+               2.9,
+               2.9
+            ],
+            "hT":3,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11951,8 +14159,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":417,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               6.4,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":2,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11969,8 +14193,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":418,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               1.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":2,
+            "DPC":1.5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -11987,8 +14227,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":419,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               1.6,
+               1.9,
+               1.6,
+               1.9,
+               1.9
+            ],
+            "hT":2.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12005,8 +14261,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":420,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               2.2,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":2,
+            "DPC":1,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12023,8 +14295,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":421,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               2.2,
+               3.2,
+               0,
+               0,
+               0
+            ],
+            "hT":2.5,
+            "DPC":1.5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12041,8 +14329,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":422,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.7,
+               5.1,
+               4.8,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12059,8 +14363,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":423,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.4,
+               7.3,
+               0,
+               0,
+               0
+            ],
+            "hT":3.5,
+            "DPC":2,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12077,8 +14397,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":424,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               13.7,
+               7,
+               6.7,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4.5,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12095,8 +14431,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":425,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Mimosa bimucronata (maric\u00e1) ",
+            "number":457,
+            "DAP":[
+               5.1,
+               4.8,
+               3.8,
+               4.1,
+               4.1
+            ],
+            "hT":4,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"pioneira",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12113,8 +14465,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":426,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Handroanthus chrysotrichus (ip\u00ea-amarelo) ",
+            "number":457,
+            "DAP":[
+               7.3,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":2.5,
+            "EF":"re",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12131,8 +14499,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":427,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               8.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4.5,
+            "DPC":2.5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" sobre muro"
          }
       },
       {
@@ -12149,8 +14533,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":428,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Brachychiton populneum (perna-de-mo\u00e7a) ",
+            "number":457,
+            "DAP":[
+               24.8,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":10,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12167,8 +14567,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":429,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Brachychiton populneum (perna-de-mo\u00e7a) ",
+            "number":457,
+            "DAP":[
+               12.4,
+               15.6,
+               17.2,
+               0,
+               0
+            ],
+            "hT":10,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12185,8 +14601,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":430,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Eugenia uniflora (pitangueira) ",
+            "number":457,
+            "DAP":[
+               5.7,
+               4.8,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12203,8 +14635,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":431,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Handroanthus heptaphyllus (ip\u00ea-roxo) ",
+            "number":457,
+            "DAP":[
+               16.6,
+               6,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. inicial",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12221,8 +14669,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":432,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Handroanthus chrysotrichus (ip\u00ea-amarelo) ",
+            "number":457,
+            "DAP":[
+               8,
+               8.3,
+               6.4,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":4,
+            "EF":"re",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12239,8 +14703,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":433,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Ficus cestrifolia (figueira-da-folha-mi\u00fada) ",
+            "number":457,
+            "DAP":[
+               14.3,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"sec. tardia",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12257,8 +14737,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":434,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Handroanthus chrysotrichus (ip\u00ea-amarelo) ",
+            "number":457,
+            "DAP":[
+               14.6,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":4,
+            "EF":"re",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12275,8 +14771,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":435,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Handroanthus chrysotrichus (ip\u00ea-amarelo) ",
+            "number":457,
+            "DAP":[
+               12.7,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"re",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12293,8 +14805,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":436,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               5.7,
+               6,
+               0,
+               0,
+               0
+            ],
+            "hT":2.5,
+            "DPC":1.5,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12311,8 +14839,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":437,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               3.2,
+               6.4,
+               4.5,
+               0,
+               0
+            ],
+            "hT":2.5,
+            "DPC":2.5,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12329,8 +14873,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":438,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               19.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":3,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -12347,8 +14907,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":439,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               12.1,
+               11.8,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12365,8 +14941,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":440,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               7,
+               6.4,
+               5.1,
+               4.1,
+               4.1
+            ],
+            "hT":3.5,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12383,8 +14975,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":441,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               6.7,
+               15.6,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12401,8 +15009,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":442,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               5.1,
+               4.8,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":4,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12419,8 +15043,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":443,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               12.7,
+               20.7,
+               19.1,
+               0,
+               0
+            ],
+            "hT":6.5,
+            "DPC":7,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12437,8 +15077,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":444,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               9.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12455,8 +15111,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":445,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               22.3,
+               19.1,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":6,
+            "EF":"re",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -12473,8 +15145,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":446,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Butia odorata (butiazeiro) ",
+            "number":457,
+            "DAP":[
+               89.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"sec. tardia",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12491,8 +15179,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":447,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               7.3,
+               7.6,
+               0,
+               0,
+               0
+            ],
+            "hT":3,
+            "DPC":3,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12509,8 +15213,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":448,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Persea americana (abacateiro) ",
+            "number":457,
+            "DAP":[
+               25.5,
+               24.8,
+               31.8,
+               0,
+               0
+            ],
+            "hT":10,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12527,8 +15247,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":449,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Butia odorata (butiazeiro) ",
+            "number":457,
+            "DAP":[
+               50.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"sec. tardia",
+            "origem":"nativa RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12545,8 +15281,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":450,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               17.8,
+               15.9,
+               0,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":6,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12563,8 +15315,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":451,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               17.5,
+               15.9,
+               15.6,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12581,8 +15349,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":452,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               15.3,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":4,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12599,8 +15383,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":453,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               19.1,
+               12.1,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":7,
+            "EF":"ru",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" erva-de-passarinho"
          }
       },
       {
@@ -12617,8 +15417,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":454,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               11.1,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":5,
+            "DPC":4,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" inclinada"
          }
       },
       {
@@ -12635,8 +15451,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":455,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               16.9,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":5,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12653,8 +15485,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":456,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Psidium guajava (goiabeira) ",
+            "number":457,
+            "DAP":[
+               18.8,
+               0,
+               0,
+               0,
+               0
+            ],
+            "hT":7,
+            "DPC":3,
+            "EF":"bo",
+            "GE":"ex\u00f3tica invasora",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       },
       {
@@ -12671,8 +15519,24 @@
             "marker-color":"#00ff00",
             "marker-size":"small",
             "marker-symbol":"",
-            "name":457,
-            "description":"No info available"
+            "name":"\u00c1rvore",
+            "description":" Citrus sp",
+            "number":457,
+            "DAP":[
+               6.4,
+               9.5,
+               5.7,
+               0,
+               0
+            ],
+            "hT":6,
+            "DPC":2,
+            "EF":"ru",
+            "GE":"demais ex\u00f3ticas",
+            "origem":"ex\u00f3tica RS",
+            "manejo":"permanece",
+            "compensacao":"0",
+            "obs":" "
          }
       }
    ]
